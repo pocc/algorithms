@@ -1,4 +1,4 @@
-# algorithms
+# 0. algorithms
 Learning algorithms with Sedgewick's book and Coursera
 ## Links
 * [Coursera Algorithms Part1](https://www.coursera.org/learn/algorithms-part1)
@@ -34,20 +34,43 @@ Learning algorithms with Sedgewick's book and Coursera
   * [ ] 5.3 Substring Search 758
   * [ ] 5.4 Regular Expressions 788
   * [ ] 5.5 Data Compression 810
-  
-## Addenda
-### Reference Material
-*Content to be added* 
 
-### License
+# 1. Make a website using Ruby on Rails and React
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
+# 2. python-networking
+## About
+* This repository is for experimentation with python and networking
+* Using this book [Foundations of Python Networking Programming](https://www.safaribooksonline.com/library/view/foundations-of-python/9781430258551) with [code](https://github.com/brandon-rhodes/fopnp) 
+## Protocols
+* HTTP
+* Email (SMTP, IMAP)
+* SSH
+* Telnet
+## Libraries
+* **socket**: websocket 
+* **requests**: HTTP requests
+* **paramiko**: ssh 
+* **twisted**: networking juggernaut
 
-### Authors
+# 3. Make a BGA game
+## [Make a game](https://www.slideshare.net/boardgamearena/bga-studio-guidelines)
+* [ ] 1. Introduction
+  * [ ] [Setup environment](http://en.doc.boardgamearena.com/First_steps_with_BGA_Studio)
+  * [ ] [Make reversi](http://en.studio.boardgamearena.com/#!doc/Tutorial_reversi)
+  * [ ] [Make gomoku](http://en.doc.boardgamearena.com/Tutorial_gomoku)
+  * [ ] [Make hearts](http://en.doc.boardgamearena.com/Tutorial_hearts)
+* [ ] [2. Select your first game](http://en.doc.boardgamearena.com/Create_a_game_in_BGA_Studio:_Complete_Walkthrough#Select_a_First_Game)
+* [ ] [3. Obtain game graphics](http://en.doc.boardgamearena.com/Create_a_game_in_BGA_Studio:_Complete_Walkthrough#Obtain_game_graphics)
+* [ ] [4. Obtain game documentation](http://en.doc.boardgamearena.com/Create_a_game_in_BGA_Studio:_Complete_Walkthrough#Obtain_game_documentation)
+* [ ] [5. Create a project](http://en.doc.boardgamearena.com/Create_a_game_in_BGA_Studio:_Complete_Walkthrough#Create_a_project)
+* [ ] [6-16. Insert these into README once we get here](http://en.doc.boardgamearena.com/Create_a_game_in_BGA_Studio:_Complete_Walkthrough#Create_a_project)
 
-* **Ross Jacobs** - *Algorithms Practice* - [pocc](https://github.com/pocc)
+## Reference
+* [BGA creating a game walkthrough](http://en.doc.boardgamearena.com/Create_a_game_in_BGA_Studio:_Complete_Walkthrough)
+* [BGA Lifecycle](http://en.doc.boardgamearena.com/BGA_game_Lifecycle)
+* [BGA File structure reference](http://en.studio.boardgamearena.com/#!doc/Studio_file_reference)
 
-See also the list of [contributors](https://github.com/pocc/merlink/contributors) who participated in this project.
+# 4. Work on taskwarrior
+https://github.com/GothenburgBitFactory/taskwarrior
 
-### Acknowledgments
-Praise be Robert Sedgewick and Kevin Wayne, authors of Algorithms!
+Make an (as yet undetermined) game and add it to [Board Game Arena](https://en.boardgamearena.com/)
